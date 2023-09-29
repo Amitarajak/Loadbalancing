@@ -1,0 +1,3 @@
+package finalexam;
+
+@license(LGPL);
